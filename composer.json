@@ -1,0 +1,14 @@
+{
+    "name": "vthech/brackers_cheker",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vthech"
+        }
+    ],
+    "require": {}
+}
